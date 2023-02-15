@@ -1,0 +1,15 @@
+C:\dev\CompareFolders\CompareFolders\bin\Debug\CompareFolders.exe.config
+C:\dev\CompareFolders\CompareFolders\bin\Debug\CompareFolders.exe
+C:\dev\CompareFolders\CompareFolders\bin\Debug\CompareFolders.pdb
+C:\dev\CompareFolders\CompareFolders\obj\Debug\CompareFolders.csprojAssemblyReference.cache
+C:\dev\CompareFolders\CompareFolders\obj\Debug\MainWindow.g.cs
+C:\dev\CompareFolders\CompareFolders\obj\Debug\App.g.cs
+C:\dev\CompareFolders\CompareFolders\obj\Debug\CompareFolders_MarkupCompile.cache
+C:\dev\CompareFolders\CompareFolders\obj\Debug\CompareFolders_MarkupCompile.lref
+C:\dev\CompareFolders\CompareFolders\obj\Debug\MainWindow.baml
+C:\dev\CompareFolders\CompareFolders\obj\Debug\CompareFolders.g.resources
+C:\dev\CompareFolders\CompareFolders\obj\Debug\CompareFolders.Properties.Resources.resources
+C:\dev\CompareFolders\CompareFolders\obj\Debug\CompareFolders.csproj.GenerateResource.cache
+C:\dev\CompareFolders\CompareFolders\obj\Debug\CompareFolders.csproj.CoreCompileInputs.cache
+C:\dev\CompareFolders\CompareFolders\obj\Debug\CompareFolders.exe
+C:\dev\CompareFolders\CompareFolders\obj\Debug\CompareFolders.pdb
